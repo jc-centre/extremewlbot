@@ -33,4 +33,5 @@ setup.bat
 - Holy
 - theking82
 - unitedjr
+- syed(to be)
 
